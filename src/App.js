@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import React from "react";
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          This is the beginning of our new front end 😃<br/><br/>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
